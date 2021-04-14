@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "5ee625af-a395-42a8-a243-fc5b1dc06785",
+		"_postman_id": "36ad54a6-009f-4a34-a34a-2ad38e22feab",
 		"name": "Camunda APP",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -63,7 +63,17 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "payment dummy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
 		}
-	],
-	"protocolProfileBehavior": {}
+	]
 }
