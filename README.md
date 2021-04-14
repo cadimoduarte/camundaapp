@@ -32,5 +32,7 @@ Para executar via bash:
 $ java -jar workflow-engine/target/workflow-engine-1.0-SNAPSHOT.jar
 ```
 ## 4. Visualizando as instancias 
-
 Para visualizar as instancias pode usar o cookpit : http://localhost:8080/app/admin/default/#/
+
+## 5. Documentação BPMN
+https://docs.camunda.org/manual/latest/reference/bpmn20/
