@@ -12,7 +12,7 @@ Para executar o projeto é necessária a instalação das seguintes ferramentas:
 Além disso, para realizar o desenvolvimento e testes será preciso:
 ```
 1. IDE ( eclipse ou intellij )
-3. Camunda modeles
+3. Camunda modeler
 4. Postman
 ```
 
